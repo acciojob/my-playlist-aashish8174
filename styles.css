@@ -13,7 +13,7 @@ h1,h2{
 	
 }
 .container{
-	background: rgb(204, 204, 204);
+	background-color:rgb(204, 204, 204);
 	height:850px
 }
 .container2{
