@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+#target{
+	text-decoration-line: none
+}
 h1,h2{
 	text-align:center;
 }
@@ -25,6 +28,7 @@ h1,h2{
 	
 	
 }
-.vid{
+.player_one,
+.player_two{
 	width:100%
 }
