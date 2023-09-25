@@ -7,21 +7,23 @@ h1,h2{
 	list-style-type: none;
 	text-decoration-line: none;
 	background:rgb(255, 255, 255);
-	width:500px;
 	border:1px solid black;
 	border-radius:8px;
-	margin:100px;
-	height:100px
+	margin:20px
+	
 }
 .container{
-	background: rgb(204, 204, 204)
+	background: rgb(204, 204, 204);
+	height:850px
 }
 .container2{
 	background:rgb(255, 255, 255);
-	padding:10px;
-	border-radius:20px;
+	padding:20px;
+	border-radius:10px;
 	width:500px;
-	margin:80px
+	
+	
+	
 }
 .vid{
 	width:100%
