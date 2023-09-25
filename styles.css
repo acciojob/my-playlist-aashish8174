@@ -16,10 +16,13 @@ h1,h2{
 	margin:20px
 	
 }
-.container{
-	background-color:rgb(204, 204, 204);
-	height:850px
+body{
+	background:rgb(204,204,204);
 }
+/* .container{
+	background-color:rgb(204,204,204);
+	height:850px
+} */
 .container2{
 	background:rgb(255, 255, 255);
 	padding:20px;
