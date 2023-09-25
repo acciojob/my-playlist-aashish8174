@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+.list{
+	
+	list-style-type: none;
+	text-decoration-line: none;
+	background:rgb(255, 255, 255);
+	width:500px;
+	border:1px solid black;
+	border-radius:8px;
+	margin:100px;
+	height:100px
+}
+.container{
+	background: rgb(204, 204, 204)
+}
+.container2{
+	background:rgb(255, 255, 255);
+	padding:10px;
+	border-radius:20px;
+	width:500px;
+	margin:80px
+}
+.vid{
+	width:100%
+}
