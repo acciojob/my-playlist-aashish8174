@@ -1,4 +1,5 @@
 /*  your css code here. If applicable */
+di
 #target{
 	text-decoration-line: none
 }
@@ -30,5 +31,6 @@ h1,h2{
 }
 .player_one,
 .player_two{
-	width:100%
+	width:100%;
+	background:rgb(255, 255, 255);
 }
